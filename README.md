@@ -1,28 +1,9 @@
-Lunch Tray - Starter Code
+PROJECT: Lunch Tray App - COMPLETED
 ==================================
 
-Starter code for the third independent project for Android Basics in Kotlin
+https://developer.android.com/courses/pathways/android-basics-kotlin-unit-3-pathway-4
 
-Introduction
-------------
+Project: Lunch Tray app
 
-This is the starter code for the Lunch Tray app project. This project is an opportunity for you to
-demonstrate the concepts you learned in Unit 3 of Android Basics in Kotlin.
-
-Pre-requisites
---------------
-
-- Complete Unit 3 of Android Basics in Kotlin
-
-Getting Started
----------------
-
-1. Download the starter code
-2. Open the project in Android Studio
-3. Complete the project in accordance with the app requirements
-
-Tips
-----
-
-- Use the provided tests to ensure your app is running as expected
-- DO NOT ALTER THE PROVIDED TESTS
+Codelab:
+Apply what you've learned in this unit to complete a food ordering app by implementing a ViewModel with data binding, and adding navigation between fragments.
